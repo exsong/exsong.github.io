@@ -121,3 +121,7 @@ export default function Home() {
     </>
   )
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  console.log('JavaScript is working!');
+});
